@@ -1,0 +1,7 @@
+./airbnb/node_modules
+./middleware/node_modules
+./mongo./node_modules
+./node/ejs/node_modules
+./node/express/node_modules
+./node/rest_class
+node_modules/
